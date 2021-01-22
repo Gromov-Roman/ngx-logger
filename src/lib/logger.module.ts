@@ -28,7 +28,8 @@ export class LoggerModule {
         NGXLogger,
         NGXLoggerHttpService,
         CustomNGXLoggerService,
-        NGXMapperService
+        NGXMapperService,
+        DatePipe
       ]
     };
   }
@@ -39,7 +40,8 @@ export class LoggerModule {
         NGXLogger,
         NGXLoggerHttpService,
         CustomNGXLoggerService,
-        NGXMapperService
+        NGXMapperService,
+        DatePipe
       ]
     };
   }
